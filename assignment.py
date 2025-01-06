@@ -1,4 +1,5 @@
-print("\n                                    WEEK ONE ASSIGNMENT!")
+
+print("\n\t\t\t\t\t\t\t\tWEEK ONE ASSIGNMENT!\n")
 numbers = []
 
 while True:
